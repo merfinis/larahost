@@ -6,4 +6,4 @@
  * Time: 23:00
  */
 
-echo "hi niggas really ?";
+echo "hi niggas really ";
